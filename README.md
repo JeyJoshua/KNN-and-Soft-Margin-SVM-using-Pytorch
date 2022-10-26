@@ -12,7 +12,7 @@ in test, etc.). Afterwards, you will need to convert the fetched data into PyTor
 type. Normalize the input image data by dividing by 255 to ensure that the input values
 are from 0 and 1.
 
-##Problem #2: Binary Classification via k-NN 
+## Problem #2: Binary Classification via k-NN 
 a) Make a k-NN (k=5) and its training/validation/evaluation code to perform binary classification between digit 2 and 3.
 b) What are the hyperparameters you can tune?
 c) Try at least two other options for each hyperparameter. Report the performance for
@@ -20,7 +20,7 @@ each option.
 d) You can try more options if you want. What is the final test accuracy?
 
 
-##Problem #3: Multiclass Classification via k-NN 
+## Problem #3: Multiclass Classification via k-NN 
 a) Make a k-NN (k=5) and its training/validation/evaluation code to perform multiclass
 classification over all digits.
 b) What are the hyperparameters you can tune?
@@ -29,7 +29,7 @@ each option.
 d) You can try more options if you want. What is the final test accuracy?
 
 
-##Problem #4: Binary Classification via soft-margin SVM 
+## Problem #4: Binary Classification via soft-margin SVM 
 a) Make a SVM classifier and its training/validation/evaluation code to perform binary
 classification between digit 2 and 3.
 b) Train for 10 epochs with batch size 64 (1 epoch is equal to one entire passing of the
